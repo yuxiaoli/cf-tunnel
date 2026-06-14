@@ -1,0 +1,23 @@
+{
+  "name": "Homebrew Neon",
+  "background": "#050805",
+  "foreground": "#E7FFE4",
+  "cursorColor": "#11FF00",
+  "selectionBackground": "#123D10",
+  "black": "#0B120B",
+  "red": "#FF4D4D",
+  "green": "#11FF00",
+  "yellow": "#D8FF3E",
+  "blue": "#4DA6FF",
+  "purple": "#FF5CFF",
+  "cyan": "#44FFD2",
+  "white": "#D9FFD6",
+  "brightBlack": "#4B684B",
+  "brightRed": "#FF8080",
+  "brightGreen": "#72FF66",
+  "brightYellow": "#EAFF8A",
+  "brightBlue": "#82C2FF",
+  "brightPurple": "#FF91FF",
+  "brightCyan": "#8AFFE5",
+  "brightWhite": "#FFFFFF"
+}
